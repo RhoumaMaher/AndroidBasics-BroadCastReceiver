@@ -22,7 +22,7 @@ This repository contains the source code for an Android app demonstrating the us
 
 For a detailed explanation of the code and concepts, check out the accompanying Medium article:
 
-[Understanding Broadcast Receivers in Android with a Practical Example](https://medium.com/@maheraizen1/understanding-broadcast-receivers-in-android-with-a-practical-example-977a773970d8)
+[Understanding Broadcast Receivers in Android with a Practical Example](https://medium.com/@RhoumaMaher/understanding-broadcast-receivers-in-android-with-a-practical-example-977a773970d8)
 
 The article walks you through the implementation step by step and highlights best practices for working with broadcast receivers.
 
@@ -42,7 +42,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Happy coding! If you have any questions or suggestions, feel free to reach out.
 
-* **Medium:** [My Medium Profile](https://medium.com/@maheraizen1)
+* **Medium:** [My Medium Profile](https://medium.com/@RhoumaMaher)
 
 * **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/maher-rhouma-581919199/)
 
